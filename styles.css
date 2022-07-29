@@ -1,0 +1,88 @@
+#heading {
+    color: rgb(0, 0, 0);
+    font-family: 'Bebas Neue', cursive;
+    font-size: 7rem;
+    max-height: fit-content;
+    width: auto;
+    margin: 0px;
+}
+
+#sub {
+    animation: fadeInAnimation ease 4s;
+    animation-iteration-count: 1;
+    animation-fill-mode: forwards;
+} 
+@keyframes fadeInAnimation {
+    0% {
+        opacity: 0;
+    }
+    50% {
+        opacity: 0;
+    }
+    100% {
+        opacity: 1;
+    }
+}
+
+body {
+    text-align: center;
+    background-color: rgb(250, 227, 177);
+    font-family: 
+}
+
+#intlinkact {
+    font-size: 2rem;
+}
+
+#intlinkmus {
+    font-size: 2rem;
+}
+
+#picofJB {
+    margin: 0 auto;
+    display: block;
+    border-radius: 40%;
+    max-width: 100%;
+    height: auto;
+}
+
+li {
+    text-align: left;
+}
+
+#JB-acting-career {
+    padding: 5px;
+    border: 8px solid black;
+    display: inline;
+    font-size: x-large;
+}
+#info-acting {
+    text-align: left;
+}
+#fun-facts-films {
+    text-align: left;
+}
+
+#film-list {
+    text-align: left;
+}
+
+#rotten-tomatoes {
+    padding: 1px;
+    border: 0px;
+    margin: 0%
+}
+
+#JB-music-career {
+    padding: 5px;
+    border: 10px solid black;
+    display: inline;
+    font-size: x-large;
+}
+#info-music {
+    text-align: left;
+}
+
+#list-awards {
+    text-align: left;
+}
