@@ -8,6 +8,9 @@
 }
 
 #sub {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 3rem;
+    margin: 0px;
     animation: fadeInAnimation ease 4s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
@@ -27,15 +30,18 @@
 body {
     text-align: center;
     background-color: rgb(250, 227, 177);
-    font-family: 
 }
 
 #intlinkact {
     font-size: 2rem;
+    color: inherit;
+    font-family: 'Bebas Neue', cursive;
 }
 
 #intlinkmus {
     font-size: 2rem;
+    color: inherit;
+    font-family: 'Bebas Neue', cursive;
 }
 
 #picofJB {
@@ -52,15 +58,23 @@ li {
 
 #JB-acting-career {
     padding: 5px;
-    border: 8px solid black;
+    border: 5px solid black;
     display: inline;
     font-size: x-large;
+    font-family: 'Bebas Neue', cursive;
 }
 #info-acting {
     text-align: left;
 }
 #fun-facts-films {
     text-align: left;
+}
+#atari-ad {
+    color: inherit;
+}
+
+#rottentomas {
+    color: inherit;
 }
 
 #film-list {
@@ -75,14 +89,23 @@ li {
 
 #JB-music-career {
     padding: 5px;
-    border: 10px solid black;
+    border: 5px solid black;
     display: inline;
     font-size: x-large;
+    font-family: 'Bebas Neue', cursive;
 }
 #info-music {
     text-align: left;
 }
 
+#KG {
+    color: inherit;
+}
+
 #list-awards {
     text-align: left;
+}
+
+#topofpage {
+    color: inherit;
 }
