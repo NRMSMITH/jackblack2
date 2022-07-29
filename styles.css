@@ -11,7 +11,7 @@
     font-family: 'Bebas Neue', cursive;
     font-size: 3rem;
     margin: 0px;
-    animation: fadeInAnimation ease 4s;
+    animation: fadeInAnimation ease 3s;
     animation-iteration-count: 1;
     animation-fill-mode: forwards;
 } 
